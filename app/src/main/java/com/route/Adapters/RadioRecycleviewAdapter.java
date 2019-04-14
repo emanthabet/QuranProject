@@ -45,7 +45,7 @@ OnItemClickListner onPlayClickListner;
             viewHolder.play.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                    onPlayClickListner.OnItemClick(i,radiosItem);//bb3t elposition w elobject
+                    onPlayClickListner.OnItemClick(i,radiosItem);
                 }
             });
 
