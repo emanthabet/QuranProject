@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_Radio"
+        android:icon="@drawable/ic_radio"
+        android:title="الراديو"/>
+
+    <item
+        android:id="@+id/navigation_hadees"
+        android:icon="@drawable/ic_hadees"
+        android:title="الأحاديث"
+        />
+
+    <item
+        android:id="@+id/navigation_praise"
+        android:icon="@drawable/praise_logo"
+        android:title="@string/praise" />
+
+    <item
+        android:id="@+id/navigation_Listening"
+        android:icon="@drawable/ic_listen"
+        android:title="استماع"/>
+
+    <item
+        android:id="@+id/navigation_quran"
+        android:icon="@drawable/quran_logo"
+        android:title="@string/quran" />
+
+
+</menu>
